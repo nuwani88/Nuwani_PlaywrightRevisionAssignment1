@@ -1,0 +1,29 @@
+{
+"ValidCustomerCredentials": {
+"email": "customer@practicesoftwaretesting.com",
+"password": "welcome01"
+},
+
+"ValidAdminCredentials": {
+"email": "admin@practicesoftwaretesting.com",
+"password": "welcome01"
+},
+
+"InvalidCustomerCredentials": {
+"email": "wrong@user.com",
+"password": "badpassword"
+},
+
+"newUser": {
+"firstName": "Playwright",
+"lastName": "Student",
+"dob": "1995-06-15",
+"address": "123 Test Street",
+"city": "Colombo",
+"state": "Western",
+"country": "LK",
+"postcode": "10100",
+"phone": "0771234567"
+}
+
+}
